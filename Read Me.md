@@ -1,4 +1,4 @@
-## Welcome to Masaru, a fun Discord bot
+## Masaru | A Legendary Cat
 
-Masaru is a Discord bot made by Katsu coded with Python.
+Discord Bot coded with Python.
 
